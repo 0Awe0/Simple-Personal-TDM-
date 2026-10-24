@@ -5,3 +5,5 @@ If you want to mark it really quick by right clicking it and process it just fol
 4. Browse to your TimelineQuickMark.exe.
 5. Name the shortcut Process with Timeline Marker.
 6. Click Finish.
+
+note: The .EXE files are located in the dist
